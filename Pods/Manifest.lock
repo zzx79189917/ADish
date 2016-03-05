@@ -1,0 +1,31 @@
+PODS:
+  - BmobSDK (1.6.5)
+  - Kingfisher (1.9.2)
+  - MBProgressHUD (0.9.2)
+  - ReachabilitySwift (2.3.3)
+  - SnapKit (0.15.0)
+
+DEPENDENCIES:
+  - BmobSDK
+  - Kingfisher (~> 1.9.2)
+  - MBProgressHUD
+  - ReachabilitySwift (from `https://github.com/ashleymills/Reachability.swift`)
+  - SnapKit (~> 0.15.0)
+
+EXTERNAL SOURCES:
+  ReachabilitySwift:
+    :git: https://github.com/ashleymills/Reachability.swift
+
+CHECKOUT OPTIONS:
+  ReachabilitySwift:
+    :commit: ec4b33a7e439e5b203b0cae0f71383ca803ad031
+    :git: https://github.com/ashleymills/Reachability.swift
+
+SPEC CHECKSUMS:
+  BmobSDK: 9928a9135a3a7823c6d8bd2bcd9baffeb8e6289a
+  Kingfisher: 7b6df0fa9d211807152c32c46494f9bc08f0e07b
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  ReachabilitySwift: e0f6b6f280effb47731acfaaa2d5ffe223703793
+  SnapKit: 4962eed2ee18e48cbd2b2292fffc57efe7235f87
+
+COCOAPODS: 0.39.0
